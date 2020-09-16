@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/home/nack/anaconda3/envs/plus/bin/python
 import argparse, sys
 from hicplus import pred_chromosome, train_models, pred_genome
 def getargs():
